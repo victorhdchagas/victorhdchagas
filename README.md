@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victorhdchagas
-- 👀 I’m interested in improve my skills in programming in 2022
+- 👀 I’m interested to improve my skills in programming in 2022
 - 🌱 I’m currently learning about docker, heroku, react, js, nodejs
 - 📫 How to reach me:
 victorhdchagas@live.com
